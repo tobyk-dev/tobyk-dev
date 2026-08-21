@@ -2,9 +2,9 @@
 
 ### Developer en aprendizaje · Creador
 
-Administro una comunidad y un servidor propio, y desde ahí empecé a meterme en programación por necesidad real: automatizar tareas, resolver problemas concretos y, con el tiempo, construir mis propias herramientas y juegos.
+Un servidor que administro se me caía a las 3 AM y no tenía forma de arreglarlo sin código. Así empecé: no por un curso, sino porque necesitaba resolver problemas reales de gente real.
 
-No aprendo de manual en manual, aprendo construyendo y rompiendo cosas en el camino. La meta es simple: llegar a trabajar como desarrollador.
+Desde entonces no paré. Herramientas, bots, plugins, un roguelike a medio hacer — cada cosa acá abajo nació de "esto me está rompiendo las bolas, lo voy a arreglar yo mismo".
 
 ---
 
