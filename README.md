@@ -1,8 +1,8 @@
 # ¡Hola! Soy TobyK 👋
 
-### Developer en aprendizaje · Gamer · Creador
+### Developer en aprendizaje · Creador
 
-Vengo del mundo gamer — administro una comunidad y un servidor propio — y desde ahí empecé a meterme en programación por necesidad real: automatizar tareas, resolver problemas concretos y, con el tiempo, construir mis propias herramientas y juegos.
+Administro una comunidad y un servidor propio, y desde ahí empecé a meterme en programación por necesidad real: automatizar tareas, resolver problemas concretos y, con el tiempo, construir mis propias herramientas y juegos.
 
 No aprendo de manual en manual, aprendo construyendo y rompiendo cosas en el camino. La meta es simple: llegar a trabajar como desarrollador.
 
