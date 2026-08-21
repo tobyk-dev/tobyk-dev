@@ -2,11 +2,9 @@
 
 ### Developer en aprendizaje · Gamer · Creador
 
-¡Bienvenido a mi perfil de GitHub!
+Vengo del mundo gamer — administro una comunidad y un servidor propio — y desde ahí empecé a meterme en programación por necesidad real: automatizar tareas, resolver problemas concretos y, con el tiempo, construir mis propias herramientas y juegos.
 
-Estoy comenzando mi camino en el mundo de la programación y aprendiendo mediante proyectos. Me gusta experimentar con diferentes tecnologías, crear cosas desde cero y aprender de cada problema que encuentro.
-
-Mi objetivo es convertir todo este aprendizaje en proyectos reales y, eventualmente, **conseguir trabajo como desarrollador**.
+No aprendo de manual en manual, aprendo construyendo y rompiendo cosas en el camino. La meta es simple: llegar a trabajar como desarrollador.
 
 ---
 
@@ -18,7 +16,6 @@ Mi objetivo es convertir todo este aprendizaje en proyectos reales y, eventualme
 - Estoy desarrollando mis habilidades para entrar profesionalmente al mundo del desarrollo
 - Me interesa especialmente el desarrollo de videojuegos
 - También quiero aprender desarrollo web y aplicaciones
-- Me interesa el desarrollo de plugins y mods
 - Siempre estoy intentando aprender algo nuevo
 
 > **No necesito saberlo todo para empezar. Necesito empezar para aprender.**
@@ -48,7 +45,6 @@ Estoy explorando diferentes áreas del desarrollo:
 - JavaScript
 - SQL
 - Java
-- Desarrollo de plugins
 - Desarrollo web
 - Desarrollo de aplicaciones
 - Desarrollo de videojuegos
@@ -59,23 +55,7 @@ Estoy explorando diferentes áreas del desarrollo:
 
 El desarrollo de videojuegos es una de las áreas que más me interesa.
 
-Me gustaría crear diferentes tipos de juegos, especialmente:
-
-`RPG` · `Fantasía` · `Acción` · `Roguelike` · `Sandbox` · `Supervivencia` · `Multijugador`
-
-Actualmente estoy aprendiendo a construir sistemas como:
-
-`Movimiento de personajes` · `Combate` · `Enemigos e IA` · `Inventarios` · `Sistemas de niveles` · `Interfaces y UI` · `Sistemas de gameplay`
-
----
-
-## ⛏️ Minecraft
-
-También estoy explorando el desarrollo relacionado con Minecraft.
-
-Me interesa aprender a crear:
-
-`Plugins` · `Mods` · `Sistemas personalizados` · `Mecánicas de gameplay` · `Sistemas de progresión` · `Herramientas para servidores`
+Me gustaría crear diferentes tipos de juegos, especialmente RPG, roguelikes y juegos de acción con enfoque en combate y progresión.
 
 ---
 
@@ -104,7 +84,6 @@ A medida que vaya completando proyectos, esta sección irá creciendo.
 - [ ] Terminar mi primer videojuego
 - [ ] Mejorar mucho en Python
 - [ ] Mejorar mucho en GDScript
-- [ ] Crear plugins de Minecraft
 - [ ] Crear aplicaciones web
 - [ ] Aprender bases de datos
 - [ ] Crear aplicaciones
@@ -116,20 +95,13 @@ A medida que vaya completando proyectos, esta sección irá creciendo.
 
 ## 🎮 Algunos de mis intereses
 
-Minecraft · League of Legends · Albion Online · RPG · MMORPG · Juegos indie · Estrategia · Terror · Anime
+Minecraft · League of Legends · Albion Online · RPG · MMORPG · Juegos indie · Estrategia · Anime
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobyk-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobyk-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tobyk-dev&theme=tokyonight&hide_border=true" />
-</p>
+> Próximamente...
 
 ---
 
