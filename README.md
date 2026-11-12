@@ -1,28 +1,27 @@
-# ¡Hola! Soy TobyK 👋
+# ¡Hola! Soy TobyK
 
-### Developer en aprendizaje · Creador
+### Desarrollador en formación · Creador
 
-Un servidor que administro se me caía a las 3 AM y no tenía forma de arreglarlo sin código. Así empecé: no por un curso, sino porque necesitaba resolver problemas reales de gente real.
+Un servidor que administro se caía a las 3 de la mañana y no tenía forma de arreglarlo sin escribir código. Así empecé: no por un curso, sino porque necesitaba resolver problemas reales.
 
-Desde entonces no paré. Herramientas, bots, plugins, un roguelike a medio hacer — cada cosa acá abajo nació de "esto me está rompiendo las bolas, lo voy a arreglar yo mismo".
+Desde entonces, sigo aprendiendo al crear herramientas, bots, plugins y juegos. Cada proyecto nace de una pregunta: ¿puedo resolver esto por mi cuenta?
 
 ---
 
 ## Sobre mí
 
-- Estoy comenzando mi camino en la programación
-- Aprendo principalmente creando proyectos
-- Me gusta experimentar con diferentes tecnologías
-- Estoy desarrollando mis habilidades para entrar profesionalmente al mundo del desarrollo
-- Me interesa especialmente el desarrollo de videojuegos
-- También quiero aprender desarrollo web y aplicaciones
-- Siempre estoy intentando aprender algo nuevo
+- Estoy comenzando mi camino en la programación.
+- Aprendo principalmente creando proyectos.
+- Me gusta experimentar con distintas tecnologías.
+- Me interesa especialmente el desarrollo de videojuegos.
+- También quiero explorar el desarrollo web y de aplicaciones.
+- Mi objetivo es prepararme para trabajar profesionalmente en desarrollo.
 
 > **No necesito saberlo todo para empezar. Necesito empezar para aprender.**
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
@@ -33,7 +32,6 @@ Desde entonces no paré. Herramientas, bots, plugins, un roguelike a medio hacer
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -43,92 +41,53 @@ Desde entonces no paré. Herramientas, bots, plugins, un roguelike a medio hacer
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## En qué estoy trabajando
 
-Estoy explorando diferentes áreas del desarrollo:
-
-- GDScript / Godot
-- Python
-- JavaScript
-- SQL
-- Java
-- Desarrollo web
-- Desarrollo de aplicaciones
-- Desarrollo de videojuegos
+Estoy aprendiendo y practicando con Python, GDScript, JavaScript, Java y SQL. También estoy explorando el desarrollo web, de aplicaciones y de videojuegos.
 
 ---
 
-## 🎮 Desarrollo de videojuegos
+## Desarrollo de videojuegos
 
-El desarrollo de videojuegos es una de las áreas que más me interesa.
-
-Me gustaría crear diferentes tipos de juegos, especialmente RPG, roguelikes y juegos de acción con enfoque en combate y progresión.
+El desarrollo de videojuegos es una de las áreas que más me interesa. Me gustaría crear RPG, roguelikes y juegos de acción centrados en el combate y la progresión.
 
 ---
 
-## 🧪 Proyectos
+## Proyectos
 
-Estoy construyendo proyectos de diferentes tamaños mientras aprendo.
-
-### 🚧 En desarrollo
-
-> Próximamente...
-
-### 🧩 Proyectos de práctica
-
-> Próximamente...
-
-### 🚀 Proyectos destacados
-
-> Próximamente...
-
-A medida que vaya completando proyectos, esta sección irá creciendo.
+Estoy creando proyectos de distintos tamaños mientras aprendo. Aquí iré compartiendo los que están en desarrollo, los ejercicios de práctica y los proyectos destacados.
 
 ---
 
-## 🎯 Objetivos 2026
+## Objetivos para 2026
 
-- [ ] Terminar mi primer videojuego
-- [ ] Mejorar mucho en Python
-- [ ] Mejorar mucho en GDScript
-- [ ] Crear aplicaciones web
-- [ ] Aprender bases de datos
-- [ ] Crear aplicaciones
-- [ ] Conseguir mi primer trabajo como desarrollador
-- [ ] Subir más proyectos a GitHub
-- [ ] Profundizar mis conocimientos de programación
+- [ ] Terminar mi primer videojuego.
+- [ ] Mejorar mis habilidades en Python y GDScript.
+- [ ] Crear aplicaciones web y aprender sobre bases de datos.
+- [ ] Conseguir mi primer trabajo como desarrollador.
+- [ ] Publicar más proyectos en GitHub.
+- [ ] Seguir profundizando mis conocimientos de programación.
 
 ---
 
-## 🎮 Algunos de mis intereses
+## Intereses
 
 Minecraft · League of Legends · Albion Online · RPG · MMORPG · Juegos indie · Estrategia · Anime
 
 ---
 
-## 📊 GitHub Stats
+## Mi forma de aprender
 
-> Próximamente...
+**Aprender → Crear → Equivocarme → Resolver → Mejorar → Repetir**
 
----
-
-## 📈 Mi progreso
-
-No estoy intentando aprenderlo todo de una vez.
-
-Mi objetivo es:
-
-**Aprender → Crear → Equivocarme → Solucionar → Mejorar → Repetir.**
-
-Cada proyecto que subo representa algo nuevo que aprendí.
+Cada proyecto que comparto representa algo nuevo que aprendí.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-**GitHub:** [@tobyk-dev](https://github.com/tobyk-dev)
-
-**Discord:** *Próximamente*
+**GitHub:** [@tobyk-dev](https://github.com/tobyk-dev)  
+**Discord:** Próximamente
 
 ---
 
